@@ -23,7 +23,6 @@ for numar in numere:
     s = s + numar
 print(f'suma este {s}')
 
-# de cate ori apare 3 in [3, 2, 3, 5, 3] - mai pune un 3 si sa mearga???
 
 list = ['mar', 'bananna', 'para']
 for x in ('bananna'):

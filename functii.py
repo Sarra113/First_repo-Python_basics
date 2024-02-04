@@ -21,8 +21,6 @@ def verificare_major(varsta): #varsta o vedem la apelare. params
 # situatie cu 2 return dar de fapt doar una poate exista odata - intr-un prezent
 
 
-
-
 # zona de apelare (desktop)
 printGreeting()
 printGreeting()
@@ -34,7 +32,7 @@ print(piValue())
 print(verificare_major(19))
 print(verificare_major(17))
 
-age = int(input('introduceti varsta')) # il oblig sa fie int. by default ar fi string
+age = int(input('introduceti varsta')) # il obliga sa fie int. by default ar fi string
 if verificare_major(age):
     print('Cont creat')
 else:

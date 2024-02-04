@@ -1,7 +1,7 @@
 # masina merge cat timp inca are benzina
 
 litri_benzina = 10
-while litri_benzina > 0:  # cand intram cu -1 conditia este falsa si nu mai intram in while, next este printstop
+while litri_benzina > 0:  # cand intram cu -1 conditia este falsa si nu mai intram in while, next este print stop
     # acceleram
     print('Vrum Vrum!')
     # scadem benzina - fosta valoare -1
@@ -12,4 +12,3 @@ while litri_benzina > 0:  # cand intram cu -1 conditia este falsa si nu mai intr
         print('beculetul rosu')
 print('stop!')
 
-...

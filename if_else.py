@@ -29,7 +29,7 @@ else:
 #if, else, if, else
 #cum saluta robotul in fct de ora
 #luam date de la tastatura
-#ne asig ca sunt transformate din strinn in int
+#ne asiguram ca sunt transformate din str in int
 
 # ora = int(input('Introdu ora'))
 # if ora < 0:
